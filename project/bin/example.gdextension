@@ -17,9 +17,9 @@ ios.arm64.single.release = "./ios/libEXTENSION-NAME.ios.template_release.arm64.d
 ios.arm64.double.release = "./ios/libEXTENSION-NAME.ios.template_release.arm64.double.dylib"
 
 visionos.arm64.single.debug = "./visionos/libEXTENSION-NAME.visionos.template_debug.arm64.dylib"
-visionos.arm64.double.debug = "./visionos/libEXTENSION-NAME.visionos.template_debug.arm64.double.dylib"
+visionos.arm64.double.debug = "./visionos/libEXTENSION-NAME.visionos.template_debug.double.arm64.dylib"
 visionos.arm64.single.release = "./visionos/libEXTENSION-NAME.visionos.template_release.arm64.dylib"
-visionos.arm64.double.release = "./visionos/libEXTENSION-NAME.visionos.template_release.arm64.double.dylib"
+visionos.arm64.double.release = "./visionos/libEXTENSION-NAME.visionos.template_release.double.arm64.dylib"
 
 windows.x86_32.single.debug = "./windows/EXTENSION-NAME.windows.template_debug.x86_32.dll"
 windows.x86_32.double.debug = "./windows/EXTENSION-NAME.windows.template_debug.x86_32.double.dll"
